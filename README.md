@@ -27,7 +27,7 @@ If you use any of these trees in a pulication, please cite:
 
 ## Importing trees into R
 
-This code shows an example of how to directly import a tree into R:
+How to import the tree directly into R:
 
 ```
 library(ape)
